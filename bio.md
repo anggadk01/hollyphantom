@@ -1,4 +1,5 @@
 
+ini contoh konflik doan
 Nama Lengkap
     Mahatma Gandhi 
 
@@ -38,3 +39,4 @@ Karir
         Pengacara; Dada Abdulla & Co. 
         Anggota Indian National Congress
 
+Ini contoh konflik doang
