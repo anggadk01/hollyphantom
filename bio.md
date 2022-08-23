@@ -1,4 +1,4 @@
-
+Ini yg versi benernyaa 
 Nama Lengkap
     Mahatma Gandhi 
 
@@ -38,3 +38,4 @@ Karir
         Pengacara; Dada Abdulla & Co. 
         Anggota Indian National Congress
 
+INI VERSI BENERNYAA
